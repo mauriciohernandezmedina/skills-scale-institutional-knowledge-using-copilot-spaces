@@ -3,6 +3,8 @@
 ## Purpose
 Standardize how OctoAcme releases features to production to reduce risk and improve observability.
 
+For role ownership and responsibilities during releases, see [Roles and Personas](./octoacme-roles-and-personas.md). For a complete pre-release checklist with owner assignments, see the [Release Readiness Checklist](./checklists/release-readiness-checklist.md).
+
 ## Release Types
 - Patch: hotfixes addressing critical production issues
 - Minor: incremental features and improvements
